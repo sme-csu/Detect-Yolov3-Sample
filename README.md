@@ -1,1 +1,0 @@
-# Detect-Yolov3-Sample
